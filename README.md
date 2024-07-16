@@ -16,7 +16,6 @@ To get started with the Quiz App, follow these steps:
 ### Prerequisites
 
 - Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
-- Dart SDK
 - An IDE such as VS Code or Android Studio
 
 ### Installation

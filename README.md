@@ -1,4 +1,4 @@
-# Quiz App
+# TriviaTrek
 
 This Flutter application is a simple quiz app that presents questions to the user, allows them to choose answers, and then shows the results. It consists of multiple screens for the start, questions, and results.
 
